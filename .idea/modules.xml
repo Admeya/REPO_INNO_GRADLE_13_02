@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.innopolis.admeya.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.innopolis.admeya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.innopolis.admeya_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.innopolis.admeya_main.iml" group="ru.innopolis.admeya" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.innopolis.admeya_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.innopolis.admeya_test.iml" group="ru.innopolis.admeya" />
+    </modules>
+  </component>
+</project>
